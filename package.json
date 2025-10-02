@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/la-guia-rapida",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a la-guia-rapida",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/la-guia-rapida.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://isproto.com/guia-acceder-a-contenido-offline/"
+    },
+    "homepage": "https://isproto.com/guia-acceder-a-contenido-offline/"
+}
